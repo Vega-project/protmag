@@ -2,7 +2,7 @@
 
 ## Johnson-Cousin
 
-![Johnson-Cousins filter curves](johnson-cousin/johnson-cousins.png)
+![Johnson-Cousins filter curves](johnson-cousins/johnson-cousins.png)
 
 * **U:** Effective central wavelength 365.6nm, FWHM 34.0nm
 * **B:** Effective central wavelength 435.3nm, FWHM 78.1nm
